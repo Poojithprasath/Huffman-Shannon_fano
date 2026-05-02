@@ -31,8 +31,9 @@ print("Variance:", var)
 ```
 # Calculation:
 
-<img width="407" height="400" alt="WhatsApp Image 2026-05-02 at 11 02 55 AM" src="https://github.com/user-attachments/assets/e2c3e5b7-8a86-455f-8f15-ba7a8741a09f" />
-<img width="450" height="450" alt="WhatsApp Image 2026-05-02 at 11 03 05 AM" src="https://github.com/user-attachments/assets/63ba1d9c-ada1-46c4-8339-43c1af99cac9" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM" src="https://github.com/user-attachments/assets/fb465394-75ed-41c5-a48f-31fba9007e7a" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM (1)" src="https://github.com/user-attachments/assets/deb5f1ce-a93f-4fe4-b7bc-8b1835658a97" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 46 AM" src="https://github.com/user-attachments/assets/a7680638-1dbe-428a-a731-3c87bb321bf3" />
 
 
 
