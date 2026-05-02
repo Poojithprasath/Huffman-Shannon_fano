@@ -33,7 +33,7 @@ print("Variance:", var)
 
 <img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM" src="https://github.com/user-attachments/assets/fb465394-75ed-41c5-a48f-31fba9007e7a" />
 <img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM (1)" src="https://github.com/user-attachments/assets/deb5f1ce-a93f-4fe4-b7bc-8b1835658a97" />
-<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 46 AM" src="https://github.com/user-attachments/assets/a7680638-1dbe-428a-a731-3c87bb321bf3" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 56 23 AM" src="https://github.com/user-attachments/assets/828fe329-a4ca-4f20-b231-dd10f2c72e6e" />
 
 
 
