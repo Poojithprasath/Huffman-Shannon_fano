@@ -31,10 +31,9 @@ print("Variance:", var)
 ```
 # Calculation:
 
-<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM" src="https://github.com/user-attachments/assets/fb465394-75ed-41c5-a48f-31fba9007e7a" />
-<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 53 45 AM (1)" src="https://github.com/user-attachments/assets/deb5f1ce-a93f-4fe4-b7bc-8b1835658a97" />
-<img width="700" height="1000" alt="WhatsApp Image 2026-05-02 at 11 56 23 AM" src="https://github.com/user-attachments/assets/828fe329-a4ca-4f20-b231-dd10f2c72e6e" />
-
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-16 at 11 07 57 AM" src="https://github.com/user-attachments/assets/9fa358ea-ea8e-4afe-9155-33ec76bf2b31" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-16 at 11 09 42 AM" src="https://github.com/user-attachments/assets/029f4497-1f09-429c-855e-bedc3efb3e7e" />
+<img width="700" height="1000" alt="WhatsApp Image 2026-05-16 at 11 09 13 AM" src="https://github.com/user-attachments/assets/426794cf-f589-4b07-9e71-a0996bd618dd" />
 
 
 # Output
